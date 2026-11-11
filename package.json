@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "storybook build",
     "start": "storybook dev -p 6006",
     "lint": "eslint",
     "storybook": "storybook dev -p 6006",
